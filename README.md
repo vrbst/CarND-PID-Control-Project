@@ -69,4 +69,4 @@ The Differential component is delaying to change the output value
 
 ## Describe how the final hyperparameters were chosen.
 
-I used the PID parameters what Sebatian was used in the Lesson12: PID Implementation. (Kp = 0.2, Ki = 0.004, Kd = 3) This values are satisfying, I decreased the throttle value too (from default 0.3 to 0.2)
+I used the PID parameters what Sebastian was used in the Lesson12: PID Implementation. (Kp = 0.2, Ki = 0.004, Kd = 3) This values are satisfying, I decreased the throttle value too (from default 0.3 to 0.2)
